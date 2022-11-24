@@ -1,0 +1,18 @@
+<style>
+
+  .sing_up {
+    background-color: green;
+    color: rgb(255, 255, 255);
+    width: 85px;
+    border-style: solid;
+    border-radius:15px;
+    border: none;
+    height: 45px;
+  }
+  .sing_up:hover{
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.40);
+  }
+
+
+</style>    
+    <button class = "sing_up">sing up</button>
